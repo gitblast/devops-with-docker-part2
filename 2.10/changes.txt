@@ -1,0 +1,1 @@
+modified REQUEST_ORIGIN variable in backend to get cors working, and REACT_APP_BACKEND_URL variable in frontend.
